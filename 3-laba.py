@@ -61,7 +61,28 @@
 
 # 3 есеп
 
-a = int(input())
-b = int(input())
-for i in range(a - (a + 1) % 2, b - b % 2, -2):
-    print(a%2, end=' ')
+# a = int(input())
+# b = int(input())
+# for i in range(a - (a + 1) % 2, b - b % 2, -2):
+#     print(a%2, end=' ')
+
+
+
+gmkdfhnkldfnmhk
+
+gfd
+globaldfg
+defgdf
+globalfdg
+defgdf
+globaldf
+gdf
+gdf
+globalddfg
+gdfgdf
+
+
+KeyErrorer
+gergerg
+
+GeneratorExitger

@@ -48,6 +48,3 @@ print(product)
 # result = h(3)
 # print(result) #result:8
 
-# #Yernur
-
-# #Nargiza
